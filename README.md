@@ -1,7 +1,5 @@
 ## **Juan Manuel Bertero** 👋
-~~~
-Estudiante de Ingenieria en Sistemas de Informacion en UTN frro
-~~~
+###Estudiante de Ingenieria en Sistemas de Informacion en UTN frro
 
 
 <!--
