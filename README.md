@@ -1,4 +1,8 @@
-## Hi there 👋
+## **Juan Manuel Bertero** 👋
+~~~
+Estudiante de Ingenieria en Sistemas de Informacion en UTN frro
+~~~
+
 
 <!--
 **JuanmaB79/JuanmaB79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
